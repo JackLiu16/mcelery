@@ -10,5 +10,5 @@ app.config_from_object('mcelery.config')
 
 
 if __name__ == '__main__':
-    app.start()
+    app.start()1
 
