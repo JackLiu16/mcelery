@@ -10,4 +10,5 @@ yum install redis
 pip install celery test pip install celery
 pip install celery test pip install celery
 pip install celery test pip install celery
+pip install celery test pip install celery
 
