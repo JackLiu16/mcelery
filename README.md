@@ -6,4 +6,4 @@ config.py 中可配置celery broker和backend为rabbitmq或者redis
 #环境准备
 yum install rabbitmq-server
 yum install redis
-pip install celery
+pip install celerypip install celery
